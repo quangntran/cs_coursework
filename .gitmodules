@@ -10,3 +10,6 @@
 [submodule "cs164 - Optimization/review_classifier"]
 	path = cs164 - Optimization/review_classifier
 	url = https://github.com/quangntran/review_classifier
+[submodule "cs146 - Modern Statistics/co2_modeling"]
+	path = cs146 - Modern Statistics/co2_modeling
+	url = https://github.com/quangntran/co2_modeling
