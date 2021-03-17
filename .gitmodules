@@ -4,3 +4,6 @@
 [submodule "cs162 - Software Engineering/cs162"]
 	path = cs162 - Software Engineering/cs162
 	url = https://github.com/quangntran/cs162
+[submodule "cs166 - Modeling and Simulations/emergency_response"]
+	path = cs166 - Modeling and Simulations/emergency_response
+	url = https://github.com/quangntran/emergency_response
