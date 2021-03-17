@@ -7,3 +7,6 @@
 [submodule "cs166 - Modeling and Simulations/emergency_response"]
 	path = cs166 - Modeling and Simulations/emergency_response
 	url = https://github.com/quangntran/emergency_response
+[submodule "cs164 - Optimization/review_classifier"]
+	path = cs164 - Optimization/review_classifier
+	url = https://github.com/quangntran/review_classifier
